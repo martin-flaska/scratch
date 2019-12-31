@@ -5,7 +5,7 @@ project(platformdispatcher)
 SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17")
 
 include_directories(
- ./include
+ ./rapidjson/include
 )
 
 add_executable(platformdispatcher dispatcher_challenge.cpp)

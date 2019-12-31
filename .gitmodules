@@ -1,0 +1,3 @@
+[submodule "Interviews/OnSemi/PlatformDispatcher/rapidjson"]
+	path = Interviews/OnSemi/PlatformDispatcher/rapidjson
+	url = git@github.com:Tencent/rapidjson.git
